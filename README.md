@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 Şu anda **kodluyoruz** üzerinde çalışıyorum
+
 - 🌱 Şu anda **flutter, android studio, git, github** öğreniyorum
 
 - 📫 Bana nasıl ulaşabilirsiniz **gulakin1@gmail.com**
@@ -22,4 +24,5 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gulakin&show_icons=true&locale=tr" alt="gulakin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulakin&" alt="gulakin" /></p>
+
 
